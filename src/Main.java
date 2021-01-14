@@ -11,5 +11,11 @@ public class Main {
 
         System.out.println(sb);
 
+        String s = " addition ";
+
+        sb.insert(5, s);
+
+        System.out.println(sb);
+
     }
 }
